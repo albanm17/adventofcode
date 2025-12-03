@@ -46,7 +46,7 @@ go run day1/main.go
 | Jour | Partie 1 | Partie 2 |
 |------|----------|----------|
 | Jour 1 | ⭐ | ⭐ |
-| Jour 2 | ☆ | ☆ |
+| Jour 2 | ⭐ | ⭐ |
 | Jour 3 | ☆ | ☆ |
 | Jour 4 | ☆ | ☆ |
 | Jour 5 | ☆ | ☆ |
